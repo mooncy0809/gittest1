@@ -23,7 +23,8 @@
           <LI>Student 2.</LI>
           <LI>Student 3.</LI>
           <LI>Lecture 4.</LI> 
-           <LI>영호</LI>               
+           <LI>영호</LI>  
+            <LI>소영</LI>               
       </OL>
   </DIV> 
 </body>
