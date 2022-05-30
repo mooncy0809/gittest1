@@ -20,6 +20,7 @@
           <LI>Lecture 2.</LI>
           <LI>Student 1.</LI>
           <LI>Student 2.</LI>
+          <LI>Student 3.</LI>
       </OL>
   </DIV> 
 </body>
