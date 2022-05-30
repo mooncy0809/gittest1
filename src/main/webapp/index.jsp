@@ -17,11 +17,6 @@
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
           <LI>Lecture 1.</LI>
-          <LI>Student 1.</LI>
-          <LI>Student 2.</LI>
-          <LI>Student 3.</LI>
-          <LI>Lecture 2.</LI>          
-          <LI>Student 4.</LI>
       </OL>
   </DIV> 
 </body>
